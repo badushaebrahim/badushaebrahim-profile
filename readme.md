@@ -48,4 +48,5 @@
 
 [twitter]: https://twitter.com/7651a501d8cc492
 [instagram]: https://www.instagram.com/badusha_ebrahim_
+[linkedin]:https://www.linkedin.com/in/ebrahim-badusha-8115a0174
 
