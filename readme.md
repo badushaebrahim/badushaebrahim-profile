@@ -28,7 +28,7 @@
 
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
@@ -49,5 +49,3 @@
 [twitter]: https://twitter.com/7651a501d8cc492
 [instagram]: https://www.instagram.com/badusha_ebrahim_
 [linkedin]:https://www.linkedin.com/in/ebrahim-badusha-8115a0174
-
-those who want to make a profile like mine can copy it off the page please change stat name to urs with ur github user name 
