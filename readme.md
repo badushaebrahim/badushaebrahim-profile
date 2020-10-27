@@ -49,3 +49,4 @@
 [twitter]: https://twitter.com/7651a501d8cc492
 [instagram]: https://www.instagram.com/badusha_ebrahim_
 
+those who want to make a profile like mine can copy it off the page please change stat name to urs with ur github user name 
