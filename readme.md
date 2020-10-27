@@ -50,3 +50,4 @@
 [instagram]: https://www.instagram.com/badusha_ebrahim_
 [linkedin]:https://www.linkedin.com/in/ebrahim-badusha-8115a0174
 
+those who want to make a profile like mine can copy it off the page please change stat name to urs with ur github user name 
