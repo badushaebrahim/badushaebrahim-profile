@@ -36,7 +36,7 @@
 <br />
 
 
-
+<br>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -46,7 +46,6 @@
 
 </details>
 
-[twitter]: 
-[youtube]: 
-[instagram]: 
+[twitter]: https://twitter.com/7651a501d8cc492
+[instagram]: https://www.instagram.com/badusha_ebrahim_
 [linkedin]: 
