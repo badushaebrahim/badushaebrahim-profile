@@ -3,7 +3,7 @@
 
 ##  I Am a student,programmer,designer!!
 
-- 🔭 I just launched my studies[Become A VS Code SuperHero!][course]!
+- 🔭 I just started my studies[Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games & blender designing [animation]
