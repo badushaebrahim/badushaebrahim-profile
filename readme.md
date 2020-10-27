@@ -42,9 +42,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="badushaebrahims's GitHub Stats" src="https://github-readme-stats.badushaebrahim.vercel.app/api?username=badushaebrahim&show_icons=true&hide_border=true" />
+[![badushaebrahim's github stats](https://github-readme-stats.vercel.app/api?username=badushaebrahim)](https://github.com/badushaebrahim/github-readme-stats)
 
-//
+
 </details>
 
 [twitter]: 
