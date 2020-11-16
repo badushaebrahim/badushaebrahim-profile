@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games & blender designing [animation]
+-  just started  
 
 
 ### Connect with me:
