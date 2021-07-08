@@ -44,7 +44,12 @@
 
 [![badushaebrahim's github stats](https://github-readme-stats.vercel.app/api?username=badushaebrahim)](https://github.com/badushaebrahim/github-readme-stats)
 
+<div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=BADUSHAEBRAHIM)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BADUSHAEBRAHIM)  
+</div>
 </details>
 
 [twitter]: https://twitter.com/7651a501d8cc492
